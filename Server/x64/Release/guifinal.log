@@ -1,0 +1,29 @@
+﻿  main.cpp
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(48,15): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(49,15): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(50,15): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(51,15): warning C4566: character represented by universal-character-name '\u015B' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(52,15): warning C4566: character represented by universal-character-name '\u017A' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(54,15): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(55,15): warning C4566: character represented by universal-character-name '\u0144' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(56,15): warning C4566: character represented by universal-character-name '\u017B' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(57,15): warning C4566: character represented by universal-character-name '\u015A' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(58,15): warning C4566: character represented by universal-character-name '\u0141' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(59,15): warning C4566: character represented by universal-character-name '\u0143' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(60,15): warning C4566: character represented by universal-character-name '\u0106' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(62,15): warning C4566: character represented by universal-character-name '\u0118' cannot be represented in the current code page (1252)
+C:\Users\Szymon\Desktop\test widget\guifinal\main.cpp(63,15): warning C4566: character represented by universal-character-name '\u0104' cannot be represented in the current code page (1252)
+main.obj : error LNK2001: unresolved external symbol __imp_WSAGetLastError
+main.obj : error LNK2001: unresolved external symbol __imp_htons
+main.obj : error LNK2001: unresolved external symbol __imp_recv
+main.obj : error LNK2001: unresolved external symbol InetPtonW
+main.obj : error LNK2001: unresolved external symbol __imp_socket
+main.obj : error LNK2001: unresolved external symbol __imp_send
+main.obj : error LNK2001: unresolved external symbol __imp_WSAStartup
+main.obj : error LNK2001: unresolved external symbol __imp_listen
+main.obj : error LNK2001: unresolved external symbol __imp_closesocket
+main.obj : error LNK2001: unresolved external symbol __imp_bind
+main.obj : error LNK2001: unresolved external symbol __imp_accept
+main.obj : error LNK2001: unresolved external symbol __imp_WSACleanup
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\Szymon\Desktop\test widget\guifinal\x64\Release\guifinal.exe : fatal error LNK1120: 13 unresolved externals

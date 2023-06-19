@@ -1,0 +1,248 @@
+====================|  New Report Generated  |====================
+
+Line 1 report:
+
+Line 2 report:
+
+Line 3 report:
+
+Line 4 report:
+
+Line 5 report:
+
+Line 6 report:
+Potential 4 digit PIN found: 4032
+
+Line 7 report:
+Potential 4 digit PIN found: 3021
+
+Line 8 report:
+Potential 4 digit PIN found: 4301
+
+Line 9 report:
+Potential 6 digit PIN found: 242101
+
+Line 10 report:
+Potential 6 digit PIN found: 112321
+
+Line 11 report:
+Potential 6 digit PIN found: 124124
+
+Line 12 report:
+Potential Credit Card number found: 1234567812345678
+
+Line 13 report:
+Potenital PESEL number found: 48123456789
+Potential phone number found: +4812345678
+
+Line 14 report:
+Potenital PESEL number found: 11234567890
+
+====================|  New Report Generated  |====================
+
+Line 1 report:
+
+Line 2 report:
+
+Line 3 report:
+
+Line 4 report:
+
+Line 5 report:
+
+Line 6 report:
+Potential 4 digit PIN found: 4032
+
+Line 7 report:
+Potential 4 digit PIN found: 3021
+
+Line 8 report:
+Potential 4 digit PIN found: 4301
+
+Line 9 report:
+Potential 6 digit PIN found: 242101
+
+Line 10 report:
+Potential 6 digit PIN found: 112321
+
+Line 11 report:
+Potential 6 digit PIN found: 124124
+
+Line 12 report:
+Potential Credit Card number found: 1234567812345678
+
+Line 13 report:
+Potenital PESEL number found: 48123456789
+Potential phone number found: +4812345678
+
+Line 14 report:
+Potenital PESEL number found: 11234567890
+
+Line 15 report:
+
+Line 16 report:
+
+====================|  New Report Generated  |====================
+
+Line 1 report:
+
+Line 2 report:
+
+Line 3 report:
+
+Line 4 report:
+
+Line 5 report:
+
+Line 6 report:
+Potential 4 digit PIN found: 4032
+
+Line 7 report:
+Potential 4 digit PIN found: 3021
+
+Line 8 report:
+Potential 4 digit PIN found: 4301
+
+Line 9 report:
+Potential 6 digit PIN found: 242101
+
+Line 10 report:
+Potential 6 digit PIN found: 112321
+
+Line 11 report:
+Potential 6 digit PIN found: 124124
+
+Line 12 report:
+Potential Credit Card number found: 1234567812345678
+
+Line 13 report:
+Potenital PESEL number found: 48123456789
+Potential phone number found: +4812345678
+
+Line 14 report:
+Potenital PESEL number found: 11234567890
+
+Line 15 report:
+
+Line 16 report:
+
+====================|  New Report Generated  |====================
+
+Line 1 report:
+
+Line 2 report:
+
+Line 3 report:
+
+Line 4 report:
+
+Line 5 report:
+
+Line 6 report:
+Potential 4 digit PIN found: 4032
+
+Line 7 report:
+Potential 4 digit PIN found: 3021
+
+Line 8 report:
+Potential 4 digit PIN found: 4301
+
+Line 9 report:
+Potential 6 digit PIN found: 242101
+
+Line 10 report:
+Potential 6 digit PIN found: 112321
+
+Line 11 report:
+Potential 6 digit PIN found: 124124
+
+Line 12 report:
+Potential Credit Card number found: 1234567812345678
+
+Line 13 report:
+Potenital PESEL number found: 48123456789
+Potential phone number found: +4812345678
+
+Line 14 report:
+Potenital PESEL number found: 11234567890
+
+Line 15 report:
+
+Line 16 report:
+
+Line 17 report:
+
+Line 18 report:
+Potential email found: test@protonmail.com
+
+====================|  New Report Generated  |====================
+
+Line 1 report:
+
+Line 2 report:
+
+Line 3 report:
+
+Line 4 report:
+
+Line 5 report:
+
+Line 6 report:
+Potential 4 digit PIN found: 4032
+
+Line 7 report:
+Potential 4 digit PIN found: 3021
+
+Line 8 report:
+Potential 4 digit PIN found: 4301
+
+Line 9 report:
+Potential 6 digit PIN found: 242101
+
+Line 10 report:
+Potential 6 digit PIN found: 112321
+
+Line 11 report:
+Potential 6 digit PIN found: 124124
+
+Line 12 report:
+Potential Credit Card number found: 1234567812345678
+
+Line 13 report:
+Potenital PESEL number found: 48123456789
+Potential phone number found: +4812345678
+
+Line 14 report:
+Potenital PESEL number found: 11234567890
+
+Line 15 report:
+
+Line 16 report:
+
+Line 17 report:
+
+Line 18 report:
+Potential email found: test@protonmail.com
+
+Line 19 report:
+
+Line 20 report:
+
+Line 21 report:
+
+Line 22 report:
+
+Line 23 report:
+
+Line 24 report:
+
+Line 25 report:
+
+Line 26 report:
+
+Line 27 report:
+
+Line 28 report:
+
+Line 29 report:
+
